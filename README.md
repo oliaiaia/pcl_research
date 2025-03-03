@@ -1,5 +1,5 @@
-# Как обрабатываалсь карта
-## Фильтры
+# PCL base
+## FILTERS
 # PassThrough filter
 **суть** - remove points whose values fall inside/outside a user given interval along a specified dimension
 **реализация на с++**
